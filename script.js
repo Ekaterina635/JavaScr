@@ -1,8 +1,8 @@
-let price=150
-/* 
-Если задать переменную ещё раз или задать, как константу, при существующей переменной, 
-то результат схожий, консоль выводит ошибку, выходит сообщение: SyntaxError: Identifier 'price' has already been declared
-*/
+const text = "Привет";
+console.log(typeof text); 
 
-console.log(price)
+const number = 1478;
+console.log(typeof number); 
 
+const isTrue = true;
+console.log(typeof isTrue); 
