@@ -1,3 +1,4 @@
-let price=100
+let price=150
+
 
 console.log(price)
